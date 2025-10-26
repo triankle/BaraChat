@@ -1,0 +1,2 @@
+"""BaraChat client package."""
+
